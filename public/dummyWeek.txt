@@ -1,0 +1,7 @@
+mon,30f,sunny
+tues,100f,rainy
+wed,0f,cloudy
+thur,50f,sunny
+fri,80f,snowy
+sat,10f,sunny
+sun,75f,cloudy
